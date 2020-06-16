@@ -8,4 +8,4 @@
   打开covid-19.html，然后选择上面三个文件的其中一个，即可看到该文件的可视化。使用条状图排名，并动态显示。
 
 # **Author**
-Written by [camera](https://github.com/creama?tab=repositories)
+[camera](https://github.com/creama?tab=repositories)
